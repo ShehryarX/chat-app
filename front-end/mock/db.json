@@ -1,0 +1,42 @@
+{
+  "conversations": [
+    {
+      "uuid": "1FCA5132-535C-489E-B1C8-6ABDD34FFF8A",
+      "name": "Shehryar Assad",
+      "unread": 1,
+      "last_message": {
+        "uuid": "89A76DA9-930D-4C31-9997-3878364F7559",
+        "body": "Thank you for the challenge!",
+        "direction": "incoming",
+        "created_at": "2018-08-20T22:33:28.660Z"
+      }
+    },
+    {
+      "uuid": "1FCA5132-535C-489E-B1C8-6ABDD34FFF81",
+      "name": "John Doe",
+      "unread": 0,
+      "last_message": {
+        "uuid": "89A76DA9-930D-4C31-9997-3878364F7551",
+        "body": "Thanks for your input. I'll let you know in about a week's time!",
+        "direction": "incoming",
+        "created_at": "2018-06-20T22:33:28.660Z"
+      }
+    }
+  ],
+  "getMessages": [
+    {
+      "page": 0,
+      "total": 1,
+      "data": {
+        "messages": [
+          {
+            "uuid": "89A76DA9-930D-4C31-9997-3878364F7559",
+            "body": "Hello, World!",
+            "direction": "incoming",
+            "created_at": "2018-08-20T22:33:28.660Z"
+          }
+        ]
+      }
+    }
+  ]
+}
